@@ -37,8 +37,9 @@
     </build>
 
     <scm>
-        <developerConnection>scm:svn:https://svn.bonitasoft.org/bonita-connectors-6/branches/connectors/bonita-connector-sap/bonita-connector-sap-6.0.x</developerConnection>
+        <developerConnection>scm:git:git@github.com:bonitasoft/bonita-connector-sap.git</developerConnection>
+        <connection>scm:git:git@github.com:bonitasoft/bonita-connector-sap.git</connection>
+        <url>https://github.com/bonitasoft/bonita-connector-sap</url>
     </scm>
-
 
 </project>
